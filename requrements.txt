@@ -1,1 +1,4 @@
-requets
+requests
+beautifulsoup4
+lxml
+python-dotenv
